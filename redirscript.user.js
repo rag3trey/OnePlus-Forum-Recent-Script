@@ -10,7 +10,7 @@
 
 $(document).ready(function () {
 	function change() {
-		$(https://forums.oneplus.net/).attr('href', 'https://forums.oneplus.net/?order=recent');
+		$onclick="jsfunction()" href="/?order=recent";
 	}
 	$(document).ajaxStop(function () {
 		change();
