@@ -8,13 +8,6 @@
 // @grant        none
 // ==/UserScript==
 
-$(document).ready(function () {
-	function change() {
-		$window.location.replace(https://forums.oneplus.net/);
-		$window.location.href = http://forums.oneplus.net/?order=recent			 
-	}
-	$(document).ajaxStop(function () {
-		change();
-	});
-	change();
-});
+<script language="javascript">
+    window.location.href = "http://example.com"
+</script>
