@@ -4,8 +4,7 @@
 // @version      0.1
 // @description  Redirect OnePlus Forums to Recents instead of Recommended
 // @author       rag3trey
-// @include        http*://forums.oneplus.net
-// @exclude        http*://forums.oneplus.net*
+// @match        *forums.oneplus.net/
 // @grant        none
 // ==/UserScript==
 
