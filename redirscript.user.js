@@ -10,7 +10,7 @@
 
 $(document).ready(function () {
 	function change() {
-		$window.location = "https://forums.oneplus.net/?order=recent";
+		$window.location.replace = "https://forums.oneplus.net/?order=recent";
 	}
 	$(document).ajaxStop(function () {
 		change();
