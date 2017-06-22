@@ -10,4 +10,4 @@
 
 var groupname = "?order=recent"; //insert your groupname between these brackets
 
-location.href = location.protocol + "//forums.oneplus.net" + groupname;
+location.href = location.protocol + "//forums.oneplus.net/" + groupname;
