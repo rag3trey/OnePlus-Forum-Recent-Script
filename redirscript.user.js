@@ -1,14 +1,15 @@
-
 // ==UserScript==
-// @name         Recommended -> Recents
-// @version      0.1
+// @name         Recommended -> Recents (ALPHA)
+// @version      0.3a
 // @description  Redirect OnePlus Forums to Recents instead of Recommended
-// @author       rag3trey
-// @include        *forums.oneplus.net/
-// @exclude        *forums.oneplus.net/*
+// @author       Baymax
+// @match        *forums.oneplus.net
 // @grant        none
 // ==/UserScript==
 
-var groupname = "?order=recent"; //insert your groupname between these brackets
+(function() {
+    'use strict';
+    var groupname = "?order=recent"; //insert your groupname between these brackets
 
-location.href = location.protocol + "//forums.oneplus.net/" + groupname;
+    location.href = location.protocol + "//forums.oneplus.net/" + groupname;
+} )();
