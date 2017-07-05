@@ -5,7 +5,7 @@
 // @author       Baymax
 // @match        *forums.oneplus.net
 // @grant        none
-//##Acknowledgements: sfomin and JasonMR. Thank you both for your support!##
+// ##Acknowledgements: sfomin and JasonMR. Thank you both for your support! ##
 // ==/UserScript==
 
 (function() {
