@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Recommended -> Recents (ALPHA)
-// @version      0.3a
+// @name         Recommended -> Recents
+// @version      0.3
 // @description  Redirect OnePlus Forums to Recents instead of Recommended
 // @author       Baymax
 // @match        *forums.oneplus.net
