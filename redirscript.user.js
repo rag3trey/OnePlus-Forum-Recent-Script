@@ -3,7 +3,7 @@
 // @version      0.3
 // @description  Redirect OnePlus Forums to Recents instead of Recommended
 // @author       Baymax
-// @match        *forums.oneplus.net
+// @match        *forums.oneplus.ne
 // @grant        none
 // ##Acknowledgements: sfomin and JasonMR. Thank you both for your support! ##
 // ==/UserScript==
