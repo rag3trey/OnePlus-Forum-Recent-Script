@@ -12,5 +12,5 @@
     'use strict';
     var groupname = "?order=Recent"; //insert your groupname between these brackets
 
-    location.href = location.protocol.pushstate + "//forums.oneplus.com/" + groupname;
+    location.href.pushstate = location.protocol + "//forums.oneplus.com/" + groupname;
 } )();
